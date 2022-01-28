@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mukulrawat/Documents/ML%20Projects/fraud%20detection/mlruns/0/a35681cb7c6e42aba04735f2b0d2cb48/artifacts
+end_time: 1643385754938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a35681cb7c6e42aba04735f2b0d2cb48
+run_uuid: a35681cb7c6e42aba04735f2b0d2cb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643385699770
+status: 4
+tags: []
+user_id: asus

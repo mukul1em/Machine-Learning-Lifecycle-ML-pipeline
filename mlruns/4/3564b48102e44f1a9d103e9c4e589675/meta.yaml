@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MUKUL%20ML/New%20folder%20%282%29/Machine-Learning-Lifecycle-ML-pipeline/mlruns/4/3564b48102e44f1a9d103e9c4e589675/artifacts
+end_time: 1643399365055
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+name: ''
+run_id: 3564b48102e44f1a9d103e9c4e589675
+run_uuid: 3564b48102e44f1a9d103e9c4e589675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643399364926
+status: 3
+tags: []
+user_id: asus
